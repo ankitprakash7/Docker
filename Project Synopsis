@@ -43,7 +43,7 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: rootpass
-      MYSQL_USER: gyanesh
+      MYSQL_USER: Ankit_13
       MYSQL_PASSWORD: redhat
       MYSQL_DATABASE: drupledb
 
